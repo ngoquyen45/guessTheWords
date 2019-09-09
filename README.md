@@ -1,7 +1,10 @@
 # guessTheWords
 ## Execise 7.35 in Textbook: "Introduction to Programming Java e10 Y. Daniel Liang".
 
-- ![#f03c15]((Game: hangman)) `#f03c15` Write a hangman game that randomly generates a word and
+```diff
+- (Game: hangman)
+``` 
+Write a hangman game that randomly generates a word and
 prompts the user to guess one letter at a time, as presented in the sample run.
 Each letter in the word is displayed as an asterisk. When the user makes a correct
 guess, the actual letter is then displayed. When the user finishes a word, display

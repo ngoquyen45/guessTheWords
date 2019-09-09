@@ -1,5 +1,5 @@
 # guessTheWords
-Execise 7.35 in Textbook: "Introduction to Programming Java e10 Y. Daniel Liang".
+## Execise 7.35 in Textbook: "Introduction to Programming Java e10 Y. Daniel Liang".
 
 (Game: hangman) Write a hangman game that randomly generates a word and
 prompts the user to guess one letter at a time, as presented in the sample run.
